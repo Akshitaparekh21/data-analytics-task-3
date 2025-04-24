@@ -1,1 +1,4 @@
 # data-analytics-task-3
+As a part of internship programme i created learned sql language and created queries in microsoft SQL 
+Here i learned various queries such as select , insert , joins , subqueries  view etc
+i have attched both .sql file containing my queries and also a pdf which includes all the outputs of my queries 
